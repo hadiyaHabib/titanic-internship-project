@@ -1,0 +1,25 @@
+# Data files (download from Kaggle separately)
+*.zip
+*.csv
+archive.zip
+Titanic_Cleaned.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle API key (NEVER upload this!)
+kaggle.json
